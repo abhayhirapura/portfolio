@@ -74,7 +74,7 @@ export default function Footer() {
           {/* Icons */}
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com/Abhayheerapura"
+              href="https://github.com/abhayhirapura"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-white transition-colors"
