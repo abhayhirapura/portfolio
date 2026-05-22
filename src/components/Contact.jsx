@@ -11,8 +11,8 @@ const LeetCodeIcon = (props) => (
 const SOCIAL_ITEMS = [
   {
     name: 'Email',
-    value: 'abhayheerapura@gmail.com',
-    href: 'mailto:abhayheerapura@gmail.com',
+    value: 'chhotuhirapura@gmail.com',
+    href: 'mailto:chhotuhirapura@gmail.com',
     icon: Mail,
     color: 'text-accent-blue',
     bgColor: 'bg-accent-blue/10',
@@ -27,7 +27,7 @@ const SOCIAL_ITEMS = [
   },
   {
     name: 'GitHub',
-    value: 'Abhayheerapura',
+    value: 'abhayhirapura',
     href: 'https://github.com/abhayhirapura',
     icon: Github,
     color: 'text-white',
