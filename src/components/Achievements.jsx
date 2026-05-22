@@ -13,34 +13,33 @@ const ACHIEVEMENTS = [
     iconColor: 'text-accent-blue',
   },
   {
-    label: 'GitHub Contributions',
-    value: '500+',
-    description: 'Yearly commits, pull requests, and repository maintenance activity.',
+    label: 'Frontend Projects Built',
+    value: '8+',
+    description: 'Built responsive frontend projects including portfolio websites, landing pages, and interactive UI applications.',
     icon: GitCommit,
     color: 'from-accent-purple/15 to-transparent',
     borderColor: 'group-hover:border-accent-purple/40',
     iconColor: 'text-accent-purple',
   },
   {
-    label: 'LeetCode Solved',
-    value: '250+',
-    description: 'Gained solid practice in problem solving, sorting, search, trees, and logic.',
+    label: 'LeetCode Problems Solved',
+    value: '350+',
+    description: 'Practiced data structures, algorithms, loops, arrays, recursion, sorting, and problem-solving concepts consistently.',
     icon: Brain,
     color: 'from-accent-blue/15 to-transparent',
     borderColor: 'group-hover:border-accent-blue/40',
     iconColor: 'text-accent-lightBlue',
   },
   {
-    label: 'Technologies Learned',
+    label: 'Technologies Explored',
     value: '10+',
-    description: 'Languages, frameworks, libraries, design platforms, and CLI systems.',
+    description: 'Worked with modern web technologies, frontend frameworks, developer tools, version control systems, and UI design platforms.',
     icon: BookOpen,
     color: 'from-accent-purple/15 to-transparent',
     borderColor: 'group-hover:border-accent-purple/40',
     iconColor: 'text-accent-lightPurple',
   },
 ];
-
 function AnimatedCounter({ value, duration = 1500 }) {
   const [count, setCount] = useState(0);
   const ref = useRef(null);

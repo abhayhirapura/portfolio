@@ -5,10 +5,10 @@ const TIMELINE_DATA = [
   {
     type: 'education',
     title: 'Bachelor of Technology (B.Tech)',
-    subtitle: 'Computer Science & Information Technology',
-    date: '2022 - Present',
+    subtitle: 'Computer Science ',
+    date: '2023 - Present',
     description: 'Focusing on core engineering fundamentals, object-oriented programming, database management systems, and building algorithms.',
-    institution: 'University Institute of Technology',
+    institution: 'Parul University',
     color: 'accent-blue',
   },
   {

@@ -3,27 +3,27 @@ import { User, Code, GraduationCap, Compass } from 'lucide-react';
 
 const TIMELINE_EVENTS = [
   {
-    year: '2022 - Present',
-    title: 'B.Tech in CSE / IT',
-    description: 'Currently pursuing a Bachelor of Technology, building a strong foundation in computer science core subjects, data structures, and algorithms.',
+    year: '2023 - 2027',
+    title: 'Bachelor of Technology in Computer Science & Engineering',
+    description: 'Currently pursuing a B.Tech in Computer Science & Engineering with a strong focus on software development, data structures, algorithms, and modern web technologies. Continuously improving problem-solving skills while building real-world web development projects.',
     icon: GraduationCap,
   },
   {
-    year: 'Early 2023',
-    title: 'Starting the Web Journey',
-    description: 'Began exploring HTML, CSS, and vanilla Javascript. Discovered a passion for creating interactive visual layouts and designing layouts.',
+    year: '2023',
+    title: 'Beginning the Web Development Journey',
+    description: 'Started learning HTML, CSS, and JavaScript fundamentals. Developed a passion for creating responsive, visually appealing, and user-friendly web interfaces with clean modern designs.',
     icon: Code,
   },
   {
-    year: 'Late 2023',
-    title: 'Adopting React & Modern CSS',
-    description: 'Transitioned into the React.js ecosystem, learning hooks, state management, and Tailwind CSS. Focused on component modularity and responsive web design.',
+    year: '2024',
+    title: 'Mastering React & Modern Frontend Development',
+    description: 'Transitioned into React.js, Tailwind CSS, Git, and GitHub. Focused on component-based architecture, responsive design, API integration, and building scalable frontend applications.',
     icon: Compass,
   },
   {
-    year: '2024 - Active',
-    title: 'Building Premium Interfaces',
-    description: 'Focused on creating high-performance, responsive web apps. Exploring Framer Motion animations, system optimization, and clean architectural design patterns.',
+    year: '2025 - Present',
+    title: 'Building Premium User Experiences',
+    description: 'Currently building high-performance modern web applications with premium UI/UX, smooth animations, optimized performance, and interactive user experiences using modern frontend technologies.',
     icon: User,
   },
 ];

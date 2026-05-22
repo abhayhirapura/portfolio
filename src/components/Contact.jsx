@@ -28,7 +28,7 @@ const SOCIAL_ITEMS = [
   {
     name: 'GitHub',
     value: 'Abhayheerapura',
-    href: 'https://github.com/Abhayheerapura',
+    href: 'https://github.com/abhayhirapura',
     icon: Github,
     color: 'text-white',
     bgColor: 'bg-white/10',

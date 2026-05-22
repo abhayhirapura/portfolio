@@ -76,7 +76,7 @@ export default function Hero() {
         behavior: 'smooth',
       });
     }
-  };
+  }; 
 
   return (
     <section
@@ -180,7 +180,7 @@ export default function Hero() {
           className="flex items-center gap-6 mt-16"
         >
           <a
-            href="https://github.com/Abhayheerapura"
+            href="https://github.com/abhayhirapura"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2.5 rounded-full border border-white/5 bg-white/5 hover:bg-white/10 hover:border-white/15 text-gray-400 hover:text-white transition-all duration-300"
